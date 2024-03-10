@@ -11,9 +11,9 @@
   const myInfo: AboutMe = {
   name: "Ghalem Salim",
   location: "Algiers, Algeria",
-  occupation: "Front-end Developer",
-  skills: ["JavaScript", "React", "TypeScript"],
-  interests: ["Coding", "Music", "Reading"],
+  occupation: "Web and Mobile Developer",
+  skills: ["JavaScript","TypeScript","React","React native"],
+  interests: ["Coding","Reading"],
 };
    ```
 
