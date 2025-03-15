@@ -11,8 +11,8 @@
   const myInfo: AboutMe = {
   name: "Ghalem Salim",
   location: "Algiers, Algeria",
-  occupation: "Web and Mobile Developer",
-  skills: ["JavaScript","TypeScript","React","React native"],
+  occupation: "Web and Mobile Developer,ML enthousiast",
+  skills: ["JavaScript","TypeScript","Pthon","MERN Stack","NestJs"],
   interests: ["Coding","Reading"],
 };
    ```
@@ -23,6 +23,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saliiimm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/saliiimm/saliiimm/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saliiimm&theme=tokyonight&hide_border=false)<br/>
