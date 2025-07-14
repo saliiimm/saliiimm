@@ -12,7 +12,7 @@
   name: "Ghalem Salim",
   location: "Algiers, Algeria",
   occupation: "Web and Mobile Developer,ML enthousiast",
-  skills: ["JavaScript","TypeScript","Pthon","MERN Stack","NestJs"],
+  skills: ["JavaScript","TypeScript","Python","MERN Stack","NestJs"],
   interests: ["Coding","Reading"],
 };
    ```
